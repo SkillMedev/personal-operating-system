@@ -1,8 +1,8 @@
 # Personal Operating System
 
-**Build the habits, focus, and systems that compound — your life, run like a product.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For high-performers who want their habits, focus, and health running on autopilot.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A complete operating system for your personal life. Build durable habits, fix your sleep, study faster, journal with intent, make better decisions, manage stress, and run a second brain — the routines high-performers rely on.
+Stop white-knuckling your way through the day. Install the operating system high-performers run on: habits that stick without willpower, deep-focus blocks that protect your best hours, sleep and stress under control, and a second brain that remembers so you don't have to. Reach for this when your routines have drifted and you want one coherent system instead of a dozen disconnected hacks.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
