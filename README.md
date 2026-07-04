@@ -14,15 +14,15 @@ Stop white-knuckling your way through the day. Install the operating system high
 
 ## Skills in this pack
 
-- **[Habit Builder](skills/habit-builder/SKILL.md)** — Designs habit stacks using cue-routine-reward with implementation intentions and tracking.
-- **[Sleep Optimizer](skills/sleep-optimizer/SKILL.md)** — Creates personalized sleep protocols based on chronotype, environment, and recovery goals.
-- **[Study System](skills/study-system/SKILL.md)** — Applies spaced repetition, active recall, and interleaving to any learning curriculum.
-- **[Journal Framework](skills/journal-framework/SKILL.md)** — Designs a journaling practice with morning pages, gratitude, and evening reflection prompts.
-- **[Decision Making](skills/decision-making/SKILL.md)** — Applies pre-mortem, second-order thinking, and decision journals to important choices.
-- **[Stress Management](skills/stress-management/SKILL.md)** — Designs a personalized stress toolkit: triggers, interventions, recovery, and prevention.
-- **[Goals & Accountability](skills/goals-accountability/SKILL.md)** — Sets SMART goals with leading indicators, weekly check-ins, and quarterly reflection prompts.
-- **[Second Brain](skills/second-brain/SKILL.md)** — Implements a PARA-based second brain in any notes app with capture, linking, and recall.
-- **[Deep Work Planner](skills/deep-work-planner/SKILL.md)** — Schedules deep work blocks, batches shallow tasks, and designs distraction-free sessions.
+- **[Habit Builder](skills/habit-builder/SKILL.md)** — Turns a vague intention into a one-page habit plan — a specific implementation intention, a habit-stack anchor sentence, cue-craving-routine-reward loop mapping, environment design, a never-miss-twice tracking method, and weekly review questions.
+- **[Sleep Optimizer](skills/sleep-optimizer/SKILL.md)** — Builds a personalized sleep protocol — a fixed wake time held within 30 minutes daily, a chronotype-aligned sleep window, a light-exposure plan, environment settings, evening input rules, and a scripted wind-down routine — from a baseline assessment.
+- **[Study System](skills/study-system/SKILL.md)** — Converts a syllabus or topic list into an evidence-based study plan — material atomized into testable units, a spaced-repetition flashcard schedule with expanding intervals, active recall and Feynman-technique prompts instead of rereading, interleaved weekly sessions, and a practice-testing cadence with an error log.
+- **[Journal Framework](skills/journal-framework/SKILL.md)** — Designs a sustainable daily journaling practice — morning pages, gratitude, intention setting, evening reflection, and weekly review — matched to the user's goal, with copy-paste templates and a rotating prompt library.
+- **[Decision Making](skills/decision-making/SKILL.md)** — Runs a structured decision process for high-stakes choices — reversibility classification, weighted decision matrices, expected value with explicit probabilities, pre-mortems, second-order thinking, and 10/10/10 — and produces a documented recommendation plus a decision-journal entry.
+- **[Stress Management](skills/stress-management/SKILL.md)** — Builds a personalized one-page stress toolkit — mapped triggers, three rehearsed in-the-moment interventions, a recovery menu, and prevention habits — from a week of trigger tracking.
+- **[Goals & Accountability](skills/goals-accountability/SKILL.md)** — Turns vague intentions into SMART goals with both lagging targets and controllable leading indicators, then keeps them alive with a 10-minute weekly check-in template, an accountability structure (visible goals, public commitments, partner check-ins), and a quarterly reflection that converts the quarter into lessons.
+- **[Second Brain](skills/second-brain/SKILL.md)** — Sets up a PARA-based second brain in any notes app (Notion, Obsidian, Apple Notes, Logseq) — Projects, Areas, Resources, Archives buckets, a frictionless universal capture inbox, weekly organizing, wiki-link and map-of-content linking, progressive summarization for recall, and maintenance rituals.
+- **[Deep Work Planner](skills/deep-work-planner/SKILL.md)** — Designs a daily schedule that protects deep work — classifies tasks as deep or shallow, places 2-4 focus blocks of 60-120 minutes at peak energy hours, batches shallow work into fixed windows, and defines each session with a goal, definition of done, distraction plan, and first action, plus startup/shutdown rituals and a weekly scorecard.
 
 ## License
 

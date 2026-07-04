@@ -1,6 +1,6 @@
 ---
 name: Second Brain
-description: Stand up a PARA-based second brain with reliable capture, linking, and recall.
+description: Sets up a PARA-based second brain in any notes app (Notion, Obsidian, Apple Notes, Logseq) — Projects, Areas, Resources, Archives buckets, a frictionless universal capture inbox, weekly organizing, wiki-link and map-of-content linking, progressive summarization for recall, and maintenance rituals. Use when someone says "help me set up a second brain", "my notes are a mess and I can never find anything", "how do I organize Obsidian with PARA", or captures ideas but never uses them. Do NOT use for designing the underlying Notion database properties and relations — use notion-database instead — or for a task-management workflow — use gtd-system instead.
 ---
 
 # Second Brain
@@ -79,3 +79,22 @@ Links: [[related-1]] [[related-2]]
 - Over-tagging or building deep folder trees — PARA stays flat (4 levels max).
 - Collecting without expressing — capture is only valuable if you later create.
 - Organizing at capture time — it kills capture velocity.
+
+## Quality bar
+
+- Capturing a new thought takes seconds and zero decisions — one inbox, no
+  filing at capture time.
+- Every existing note lands in exactly one PARA bucket, placed by next action,
+  not by topic.
+- Filed notes carry 2-3 outbound links, and each major cluster has an MOC note
+  pointing into it.
+- The weekly and monthly rituals are written down with a trigger (day + time),
+  not left as intentions.
+
+## Deliverable
+
+Produce a working second-brain setup in the user's chosen app: the four PARA
+top-level buckets created, a universal capture inbox wired to a quick-capture
+entry point, the note template installed, 2-3 starter MOC/index notes for their
+main clusters, and a written maintenance checklist (the 20-minute weekly review
+and 10-minute monthly prune) with a scheduled trigger for each.

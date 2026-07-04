@@ -1,6 +1,6 @@
 ---
 name: Study System
-description: Apply spaced repetition, active recall, and interleaving to learn any curriculum efficiently.
+description: Converts a syllabus or topic list into an evidence-based study plan — material atomized into testable units, a spaced-repetition flashcard schedule with expanding intervals, active recall and Feynman-technique prompts instead of rereading, interleaved weekly sessions, and a practice-testing cadence with an error log. Use when someone says "help me study for this exam", "build me a study schedule", "I keep rereading and forgetting everything", or wants to learn a curriculum efficiently. Do NOT use for acquiring a spoken language specifically — use language-learning instead — or for building everyday habits — use habit-builder instead.
 ---
 
 # Study System
@@ -47,6 +47,35 @@ Each week:
 - What proportion of cards/questions am I answering correctly?
 - Which atoms keep failing? Rewrite those cards more clearly.
 - Is the schedule realistic, or do I need to cut scope?
+
+## Do NOT
+
+- Do NOT let rereading and highlighting count as study time — they produce
+  fluency illusion (the material feels familiar but cannot be retrieved).
+  Retrieval attempts are the unit of study.
+- Do NOT block-practice one topic to exhaustion — 20 identical problems in a
+  row trains recognition of the problem type, not the choice of method the
+  test demands. Interleave.
+- Do NOT write multi-fact cards — a card asking two things gets graded on the
+  easier half and the other fact silently rots. One atom per card.
+- Do NOT skip the error log after practice tests — restudying everything
+  instead of the misses wastes the scarcest resource, and errors without a
+  cause label (concept gap / careless / misread) can't be fixed.
+- Do NOT drill only the comfortable decks — time goes to the atoms with the
+  lowest recall rate, precisely because it feels worse.
+- Do NOT cram the night before as a substitute for the schedule — massed
+  practice inflates next-day recall and collapses within a week; the intervals
+  are the mechanism.
+
+## Quality bar
+
+- Every atom is phrased as one answerable question, not a topic name.
+- Each card has a scheduled next-review date from the expanding-interval
+  ladder; misses demonstrably reset to day 1.
+- Weekly sessions interleave at least two topics, and total scheduled hours
+  fit the user's stated availability.
+- The plan includes at least one full-length practice test under realistic
+  conditions before the exam, with the error log template attached.
 
 ## Output for the user
 Produce: the atomized topic list, a flashcard plan with intervals, an interleaved weekly schedule, and a practice-testing cadence with an error log template.
