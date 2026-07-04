@@ -9,7 +9,7 @@ Stop white-knuckling your way through the day. Install the operating system high
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/personal-operating-system](https://skillme.dev/pack/personal-operating-system) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/personal-operating-system`
+- **With the skills CLI:** `npx skills add SkillMedev/personal-operating-system`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
